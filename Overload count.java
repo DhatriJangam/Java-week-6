@@ -23,3 +23,8 @@ public class OverloadCount {
         find(16);
     }
 }
+
+Output:
+The largest number is 9
+The smallest number is 1
+The square root of 16 is 4.0
